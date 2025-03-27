@@ -8,3 +8,4 @@ def calcular_media(numeros):
 # Teste da função
 numeros = [10, 20, 30, 40, 50]
 print(f"A média é: {calcular_media(numeros)}")
+print("Você passou de ano!")
