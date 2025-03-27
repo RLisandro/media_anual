@@ -6,3 +6,4 @@ idade = hoje.year  -  nasc.year
 print(f"Sua idade é: {idade} ano.")
 print("Acima sua idade!!")
 
+
