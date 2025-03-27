@@ -9,3 +9,4 @@ def calcular_media(numeros):
 numeros = [10, 20, 30, 40, 50]
 print(f"A média é: {calcular_media(numeros)}")
 print("Você passou de ano!")
+print("Parabéns você passou com nota máxima!")
